@@ -1,6 +1,3 @@
-from re import I
-
-
 integer = 28
 float = 27.8
 
